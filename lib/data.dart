@@ -1,0 +1,18 @@
+const List<String> names = <String>[
+  'Apple',
+  'Banana',
+  'Eve',
+  'Noah',
+  'Avocado',
+  'Mango',
+  'Joseph',
+  'Jokoy',
+  'Marshall',
+  'Foolk',
+  'Samuel',
+  'Jackson',
+  'Michel',
+  'The Bomeerang',
+  'Dota 2',
+  'I just want to live',
+];
